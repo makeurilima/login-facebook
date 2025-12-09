@@ -20,5 +20,22 @@ body{
     border:none;
     height:35px;
     width:63vh;
-    margin:16px;
+    margin:10px;
+    border-radius:5px;
+
+}
+.btn-new-account{
+    margin-bottom:20px;
+    border:none;
+    height:35px;
+    width:40vh;
+    border-radius:5px;
+}
+.link-recover{
+    border:none;
+    height:30px;
+    font-size:12px
+}
+.divider-container{
+    width:226px;
 }
