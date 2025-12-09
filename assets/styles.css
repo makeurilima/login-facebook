@@ -1,0 +1,24 @@
+body{
+    background-color:#000;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+}
+
+.container{
+    background-color:#ffffff;
+    display:flex;
+    flex-direction:column;
+    justify-content:flex-end;
+    align-items:center;
+}
+.container input{
+    margin:10px;
+    padding:5px;
+}
+.btn-login{
+    border:none;
+    height:35px;
+    width:63vh;
+    margin:16px;
+}
